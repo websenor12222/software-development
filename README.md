@@ -1,8 +1,12 @@
 # software-development
 WebSenor is a global IT outsourcing and consulting company with approximately 2500+ serving clients including India, USA, UK, and more. We offer top-edge software development services by combining our years of domain experience, professional expertise, subtle knowledge of the latest industry trends and business-driven model
+
 Software Development: From Code to Innovation
+
 Software development is the backbone of the digital world. From mobile apps to enterprise systems, the software we use daily is the result of intricate development processes involving design, coding, testing, and deployment. As technology evolves, software development continues to reshape how we live, work, and interact.
+
 What is Software Development?
+
 Software development is the process of designing, coding, testing, and maintaining applications or systems that run on computers or other devices. It involves transforming user needs into functional software solutions using programming languages, frameworks, and development tools.
 It typically involves a team of developers, designers, testers, project managers, and other stakeholders working together to solve problems and deliver value to users.
 The Software Development Lifecycle (SDLC)
