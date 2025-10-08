@@ -9,7 +9,9 @@ What is Software Development?
 
 Software development is the process of designing, coding, testing, and maintaining applications or systems that run on computers or other devices. It involves transforming user needs into functional software solutions using programming languages, frameworks, and development tools.
 It typically involves a team of developers, designers, testers, project managers, and other stakeholders working together to solve problems and deliver value to users.
+
 The Software Development Lifecycle (SDLC)
+
 The SDLC is a structured approach that guides software development from inception to deployment. Key stages include:
 Planning – Defining the project's scope, goals, and requirements.
 
@@ -33,16 +35,23 @@ Maintenance – Updating and improving the software over time.
 
 
 Popular Software Development Methodologies
+
 Different projects demand different approaches. Here are some widely used methodologies:
+
 1. Agile Development
 Agile is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback. Projects are divided into small units called sprints, which are reviewed regularly.
+
 2. Waterfall
 A linear approach where each phase must be completed before the next begins. Suitable for projects with clear, unchanging requirements.
+
 3. DevOps
 DevOps integrates development and IT operations to enable continuous integration and continuous delivery (CI/CD). It promotes automation and faster delivery cycles.
+
 4. Scrum and Kanban
 Both are agile frameworks. Scrum focuses on time-boxed sprints and defined roles, while Kanban emphasizes visualizing work in progress and limiting tasks.
+
 Key Technologies in Software Development
+
 Languages: Python, Java, C#, JavaScript, Go, Rust, etc.
 
 
@@ -56,6 +65,7 @@ Databases: MySQL, PostgreSQL, MongoDB, Redis.
 
 
 Challenges in Software Development
+
 Changing Requirements – Client needs can evolve mid-project.
 
 
@@ -72,7 +82,9 @@ Time & Budget Constraints – Balancing quality with resources.
 
 
 The Future of Software Development
+
 The landscape of software development is evolving rapidly. Some emerging trends include:
+
 Artificial Intelligence (AI) – AI-assisted coding, testing, and decision-making.
 
 
@@ -89,5 +101,6 @@ Cybersecurity by design – Integrating security from the ground up.
 
 
 Conclusion
+
 Software development is more than just writing code—it's a strategic process that combines creativity, logic, and engineering. As demand for digital solutions grows, so does the need for skilled developers who can build robust, scalable, and user-friendly applications. Whether you're a budding coder or a business leader, understanding software development is essential in today's tech-driven world.
 
